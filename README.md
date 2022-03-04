@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+We were working through a tutorial on YouTube that is in Flutter v1. We were converting it to Flutter v2. 
+
+Welcome, Login, Signup Page - Flutter UI - Speed Code
+Link: https://www.youtube.com/watch?v=ExKYjqgswJg&t=726s
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
